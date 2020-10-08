@@ -6,4 +6,6 @@ Kaggle Link to Project: https://www.kaggle.com/ironicninja/mental-health-trends-
 
 Presentation: https://docs.google.com/presentation/d/1IEXu-xDJTcRsTZ7fxu6Ayj-VXZMREGDaQXX74iq_tqA
 
+Video Presentation: https://www.youtube.com/watch?v=CbXtv_L8CBk
+
 Website: http://evzhang.weebly.com
