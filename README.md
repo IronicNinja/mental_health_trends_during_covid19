@@ -1,6 +1,6 @@
 # Mental Health Trends During COVID 19
 
-Kaggle links + Mentorship presentation + Website for this Data Science project
+Kaggle links + Mentorship presentation + Website for 2020 Summer Mentorship Research Project (June - July). My mentor was Dr. John Muth from NC State.
 
 Kaggle Link to Project: https://www.kaggle.com/ironicninja/mental-health-trends-during-covid-19
 
